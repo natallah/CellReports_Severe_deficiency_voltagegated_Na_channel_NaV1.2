@@ -1,0 +1,299 @@
+ID,FC,pvalue,padj,Description,Gene,Chro,Notes
+ENSMUSG00000075318,-1.7054,0.0000,0.0000,"sodium channel, voltage-gated, type II, alpha [Source:MGI Symbol;Acc:MGI:98248]",Scn2a,2,Sodium
+ENSMUSG00000035828,-0.5131,0.0001,0.0128,proviral integration site 3 [Source:MGI Symbol;Acc:MGI:1355297],Pim3,15,22q13
+ENSMUSG00000000214,-1.799677559,0.000254416,0.022486484,tyrosine hydroxylase [Source:MGI Symbol;Acc:MGI:98735],Th,7,Bipolar
+ENSMUSG00000022403,-0.3065,0.0004,0.0274,suppression of tumorigenicity 13 [Source:MGI Symbol;Acc:MGI:1917606],St13,15,22q13
+ENSMUSG00000002012,0.3707,0.0006,0.0337,pregnancy upregulated non-ubiquitously expressed CaM kinase [Source:MGI Symbol;Acc:MGI:1347357],Pnck,X,Calcium
+ENSMUSG00000025326,-0.3126,0.0009,0.0433,ubiquitin protein ligase E3A [Source:MGI Symbol;Acc:MGI:105098],Ube3a,7,Angel
+ENSMUSG00000047797,-0.8138,0.0011,0.0489,"gap junction protein, beta 1 [Source:MGI Symbol;Acc:MGI:95719]",Gjb1,X,Neuro
+ENSMUSG00000064329,-0.4968,0.0017,0.0613,"sodium channel, voltage-gated, type I, alpha [Source:MGI Symbol;Acc:MGI:98246]",Scn1a,2,ASD+sleep
+ENSMUSG00000070304,-0.3081,0.0021,0.0681,"sodium channel, voltage-gated, type II, beta [Source:MGI Symbol;Acc:MGI:106921]",Scn2b,9,Sodium
+ENSMUSG00000015377,0.6630,0.0026,0.0757,DENN/MADD domain containing 6B [Source:MGI Symbol;Acc:MGI:1916690],Dennd6b,15,22q13
+ENSMUSG00000042564,0.8012,0.0037,0.0931,"family with sequence similarity 227, member A [Source:MGI Symbol;Acc:MGI:1922979]",Fam227a,15,22q13
+ENSMUSG00000034156,0.4213,0.0037,0.0934,TSPO associated protein 1 [Source:MGI Symbol;Acc:MGI:2450877],Tspoap1,11,22q13
+ENSMUSG00000035891,-0.3455,0.0073,0.1331,ceramide kinase [Source:MGI Symbol;Acc:MGI:2386052],Cerk,15,22q13
+ENSMUSG00000031292,-0.3056,0.0080,0.1399,cyclin-dependent kinase-like 5 [Source:MGI Symbol;Acc:MGI:1278336],Cdkl5,X,ASD+Sleep
+ENSMUSG00000036606,0.2822,0.0096,0.1553,plexin B2 [Source:MGI Symbol;Acc:MGI:2154239],Plxnb2,15,ASD
+ENSMUSG00000033006,-0.2823,0.0114,0.1690,SRY (sex determining region Y)-box 10 [Source:MGI Symbol;Acc:MGI:98358],Sox10,15,Hypotonia
+ENSMUSG00000035900,0.2915,0.0122,0.1765,GRAM domain containing 4 [Source:MGI Symbol;Acc:MGI:2676308],Gramd4,15,22q13
+ENSMUSG00000058809,1.6066,0.0133,0.1824,"heat shock protein 1 (chaperonin), pseudogene 3 [Source:MGI Symbol;Acc:MGI:3651246]",Hspd1-ps3,11,Hsp
+ENSMUSG00000019194,-0.2653,0.0147,0.1910,"sodium channel, voltage-gated, type I, beta [Source:MGI Symbol;Acc:MGI:98247]",Scn1b,7,Sodium
+ENSMUSG00000049521,-0.3212,0.0158,0.1958,CDC42 effector protein (Rho GTPase binding) 1 [Source:MGI Symbol;Acc:MGI:1929763],Cdc42ep1,15,22q13
+ENSMUSG00000016664,-0.2492,0.0183,0.2095,protein kinase C and casein kinase substrate in neurons 2 [Source:MGI Symbol;Acc:MGI:1345153],Pacsin2,15,22q13
+ENSMUSG00000022441,0.4316,0.0236,0.2403,EF-hand calcium binding domain 6 [Source:MGI Symbol;Acc:MGI:1924877],Efcab6,15,22q13
+ENSMUSG00000027184,-0.1862,0.0256,0.2476,cell cycle associated protein 1 [Source:MGI Symbol;Acc:MGI:1858234],Caprin1,2,ASD GWAS
+ENSMUSG00000096210,-0.2292,0.0256,0.2476,"H1 histone family, member 0 [Source:MGI Symbol;Acc:MGI:95893]",H1f0,15,22q13
+ENSMUSG00000026610,-0.5116,0.0274,0.2545,estrogen-related receptor gamma [Source:MGI Symbol;Acc:MGI:1347056],Esrrg,1,Hormone
+ENSMUSG00000022472,-0.2881,0.0276,0.2547,desumoylating isopeptidase 1 [Source:MGI Symbol;Acc:MGI:106313],Desi1,15,22q13
+ENSMUSG00000016028,0.4514,0.0293,0.2621,"cadherin, EGF LAG seven-pass G-type receptor 1 [Source:MGI Symbol;Acc:MGI:1100883]",Celsr1,15,ASD
+ENSMUSG00000018865,-0.2260,0.0319,0.2732,"sulfotransferase family 4A, member 1 [Source:MGI Symbol;Acc:MGI:1888971]",Sult4a1,15,ASD+hypotonia
+ENSMUSG00000022386,0.4007,0.0344,0.2837,tRNA 5-methylaminomethyl-2-thiouridylate methyltransferase [Source:MGI Symbol;Acc:MGI:1919276],Trmu,15,Hypotonia
+ENSMUSG00000030222,-0.5661,0.0369,0.2943,"RAS-like, estrogen-regulated, growth-inhibitor [Source:MGI Symbol;Acc:MGI:2665139]",Rerg,6,Hormone
+ENSMUSG00000043460,0.3025,0.0381,0.2995,"leucine rich repeat and fibronectin type III, extracellular 2 [Source:MGI Symbol;Acc:MGI:3608416]",Elfn2,15,22q13
+ENSMUSG00000022477,-0.1646,0.0424,0.3151,"aconitase 2, mitochondrial [Source:MGI Symbol;Acc:MGI:87880]",Aco2,15,Hypotonia
+ENSMUSG00000036893,0.2202,0.0445,0.3213,euchromatic histone methyltransferase 1 [Source:MGI Symbol;Acc:MGI:1924933],Ehmt1,2,ASD GWAS
+ENSMUSG00000062906,0.3893,0.0450,0.3230,histone deacetylase 10 [Source:MGI Symbol;Acc:MGI:2158340],Hdac10,15,22q13
+ENSMUSG00000016624,0.3619,0.0468,0.3297,PHD finger protein 21B [Source:MGI Symbol;Acc:MGI:2443812],Phf21b,15,22q13
+ENSMUSG00000050164,-0.4140,0.0469,0.3298,melanin-concentrating hormone receptor 1 [Source:MGI Symbol;Acc:MGI:2180756],Mchr1,15,22q13
+ENSMUSG00000042428,-0.1886,0.0487,0.3342,mannoside acetylglucosaminyltransferase 3 [Source:MGI Symbol;Acc:MGI:104532],Mgat3,15,22q13
+ENSMUSG00000022339,-0.2585,0.0495,0.3362,estrogen receptor-binding fragment-associated gene 9 [Source:MGI Symbol;Acc:MGI:1859920],Ebag9,15,Hormone
+ENSMUSG00000022416,-0.3034,0.0531,0.3463,"calcium channel, voltage-dependent, alpha 1I subunit [Source:MGI Symbol;Acc:MGI:2178051]",Cacna1i,15,22q13
+ENSMUSG00000041653,0.7819,0.0620,0.3731,patatin-like phospholipase domain containing 3 [Source:MGI Symbol;Acc:MGI:2151796],Pnpla3,15,22q13
+ENSMUSG00000033039,-0.3070,0.0655,0.3834,"microtubule associated monooxygenase, calponin and LIM domain containing -like 1 [Source:MGI Symbol;Acc:MGI:105870]",Micall1,15,22q13
+ENSMUSG00000051331,0.2006,0.0686,0.3918,"calcium channel, voltage-dependent, L type, alpha 1C subunit [Source:MGI Symbol;Acc:MGI:103013]",Cacna1c,6,"ASD+Sleep, GWAS"
+ENSMUSG00000019768,0.5677,0.0743,0.4054,estrogen receptor 1 (alpha) [Source:MGI Symbol;Acc:MGI:1352467],Esr1,10,Hormone
+ENSMUSG00000018008,0.3306,0.0744,0.4054,cytohesin 4 [Source:MGI Symbol;Acc:MGI:2441702],Cyth4,15,22q13
+ENSMUSG00000028399,0.2986,0.0817,0.4222,"protein tyrosine phosphatase, receptor type, D [Source:MGI Symbol;Acc:MGI:97812]",Ptprd,4,OCD
+ENSMUSG00000021255,-0.7646,0.0870,0.4352,"estrogen related receptor, beta [Source:MGI Symbol;Acc:MGI:1346832]",Esrrb,12,Hormone
+ENSMUSG00000022404,-0.2302,0.0985,0.4601,"solute carrier family 25 (mitochondrial carrier, peroxisomal membrane protein), member 17 [Source:MGI Symbol;Acc:MGI:1342248]",Slc25a17,15,22q13
+ENSMUSG00000049112,0.5165,0.0992,0.4609,oxytocin receptor [Source:MGI Symbol;Acc:MGI:109147],Oxtr,6,Oxy
+ENSMUSG00000022453,0.2205,0.1015,0.4668,"N-acetyl galactosaminidase, alpha [Source:MGI Symbol;Acc:MGI:1261422]",Naga,15,Hypotonia
+ENSMUSG00000043051,0.4989,0.1016,0.4668,disrupted in schizophrenia 1 [Source:MGI Symbol;Acc:MGI:2447658],Disc1,8,ASD+sleep
+ENSMUSG00000034997,-0.3622,0.1099,0.4819,5-hydroxytryptamine (serotonin) receptor 2A [Source:MGI Symbol;Acc:MGI:109521],Htr2a,14,ASD+Sleep
+ENSMUSG00000022471,0.2731,0.1102,0.4821,X-ray repair complementing defective repair in Chinese hamster cells 6 [Source:MGI Symbol;Acc:MGI:95606],Xrcc6,15,22q13
+ENSMUSG00000053137,0.2511,0.1251,0.5108,mitogen-activated protein kinase 11 [Source:MGI Symbol;Acc:MGI:1338024],Mapk11,15,22q13
+ENSMUSG00000045103,0.1646,0.1304,0.5208,"dystrophin, muscular dystrophy [Source:MGI Symbol;Acc:MGI:94909]",Dmd,X,ASD GWAS
+ENSMUSG00000068114,0.3005,0.1328,0.5253,coiled-coil domain containing 134 [Source:MGI Symbol;Acc:MGI:1923707],Ccdc134,15,22q13
+ENSMUSG00000033128,0.1361,0.1360,0.5300,"golgi associated, gamma adaptin ear containing, ARF binding protein 1 [Source:MGI Symbol;Acc:MGI:2146207]",Gga1,15,22q13
+ENSMUSG00000058441,-0.1292,0.1444,0.5425,pannexin 2 [Source:MGI Symbol;Acc:MGI:1890615],Panx2,15,ASD
+ENSMUSG00000075316,0.4633,0.1533,0.5551,"sodium channel, voltage-gated, type IX, alpha [Source:MGI Symbol;Acc:MGI:107636]",Scn9a,2,Sodium
+ENSMUSG00000022389,0.1546,0.1616,0.5683,thyrotroph embryonic factor [Source:MGI Symbol;Acc:MGI:98663],Tef,15,22q13
+ENSMUSG00000046480,-0.9698,0.1635,0.5704,"sodium channel, type IV, beta [Source:MGI Symbol;Acc:MGI:2687406]",Scn4b,9,Sodium
+ENSMUSG00000008658,0.1084,0.1698,0.5794,"RNA binding protein, fox-1 homolog (C. elegans) 1 [Source:MGI Symbol;Acc:MGI:1926224]",Rbfox1,16,ASD+sleep
+ENSMUSG00000022391,-0.1520,0.1788,0.5897,RAN GTPase activating protein 1 [Source:MGI Symbol;Acc:MGI:103071],Rangap1,15,22q13
+ENSMUSG00000026740,0.2040,0.1810,0.5933,DnaJ heat shock protein family (Hsp40) member C1 [Source:MGI Symbol;Acc:MGI:103268],Dnajc1,2,Hsp
+ENSMUSG00000020661,0.1848,0.1897,0.6035,DNA methyltransferase 3A [Source:MGI Symbol;Acc:MGI:1261827],Dnmt3a,12,ASD GWAS
+ENSMUSG00000018126,-0.4343,0.1925,0.6074,BAI1-associated protein 2-like 2 [Source:MGI Symbol;Acc:MGI:2652819],Baiap2l2,15,22q13
+ENSMUSG00000033055,0.1823,0.1952,0.6107,ankyrin repeat domain 54 [Source:MGI Symbol;Acc:MGI:2444209],Ankrd54,15,22q13
+ENSMUSG00000036959,0.1535,0.1970,0.6120,BCL6 co-repressor-like 1 [Source:MGI Symbol;Acc:MGI:2443910],Bcorl1,X,ASD GWAS
+ENSMUSG00000022407,-0.1788,0.2049,0.6198,adenylosuccinate lyase [Source:MGI Symbol;Acc:MGI:103202],Adsl,15,Hypotonia
+ENSMUSG00000022420,0.1571,0.2141,0.6313,"dynein, axonemal, light chain 4 [Source:MGI Symbol;Acc:MGI:1859217]",Dnal4,15,22q13
+ENSMUSG00000022421,0.6153,0.2359,0.6563,neuronal pentraxin receptor [Source:MGI Symbol;Acc:MGI:1920590],Nptxr,15,22q13
+ENSMUSG00000051786,0.1299,0.2432,0.6625,"tubulin, gamma complex associated protein 6 [Source:MGI Symbol;Acc:MGI:2146071]",Tubgcp6,15,22q13
+ENSMUSG00000029563,-0.3087,0.2453,0.6643,forkhead box P2 [Source:MGI Symbol;Acc:MGI:2148705],Foxp2,6,ASD+Sleep
+ENSMUSG00000022452,-0.1340,0.2481,0.6664,single-pass membrane protein with aspartate rich tail 1 [Source:MGI Symbol;Acc:MGI:1916279],Smdt1,15,22q13
+ENSMUSG00000022390,0.1281,0.2540,0.6729,zinc finger CCCH type containing 7B [Source:MGI Symbol;Acc:MGI:1328310],Zc3h7b,15,22q13
+ENSMUSG00000068117,0.3857,0.2573,0.6765,meiotic double-stranded break formation protein 1 [Source:MGI Symbol;Acc:MGI:3028590],Mei1,15,22q13
+ENSMUSG00000027223,-0.1019,0.2687,0.6870,mitogen-activated protein kinase 8 interacting protein 1 [Source:MGI Symbol;Acc:MGI:1309464],Mapk8ip1,2,ASD
+ENSMUSG00000019772,0.3639,0.2874,0.7032,vasoactive intestinal polypeptide [Source:MGI Symbol;Acc:MGI:98933],Vip,10,ASD GWAS
+ENSMUSG00000059970,0.1778,0.3123,0.7248,heat shock protein 2 [Source:MGI Symbol;Acc:MGI:96243],Hspa2,12,Hsp
+ENSMUSG00000024955,-0.1545,0.3127,0.7248,"estrogen related receptor, alpha [Source:MGI Symbol;Acc:MGI:1346831]",Esrra,19,Hormone
+ENSMUSG00000022614,0.1412,0.3136,0.7259,lipase maturation factor 2 [Source:MGI Symbol;Acc:MGI:2146015],Lmf2,15,22q13
+ENSMUSG00000000489,0.2320,0.3247,0.7337,"platelet derived growth factor, B polypeptide [Source:MGI Symbol;Acc:MGI:97528]",Pdgfb,15,22q13
+ENSMUSG00000044216,-0.1719,0.3328,0.7381,"potassium inwardly-rectifying channel, subfamily J, member 4 [Source:MGI Symbol;Acc:MGI:104743]",Kcnj4,15,22q13
+ENSMUSG00000038331,0.4513,0.3358,0.7411,special AT-rich sequence binding protein 2 [Source:MGI Symbol;Acc:MGI:2679336],Satb2,1,ASD GWAS
+ENSMUSG00000022382,0.1732,0.3419,0.7435,"wingless-type MMTV integration site family, member 7B [Source:MGI Symbol;Acc:MGI:98962]",Wnt7b,15,ASD
+ENSMUSG00000055065,0.1249,0.3607,0.7607,DEAD (Asp-Glu-Ala-Asp) box polypeptide 17 [Source:MGI Symbol;Acc:MGI:1914290],Ddx17,15,22q13
+ENSMUSG00000026885,0.1093,0.3660,0.7639,"tubulin tyrosine ligase-like family, member 11 [Source:MGI Symbol;Acc:MGI:1921660]",Ttll11,2,22q13
+ENSMUSG00000042109,-0.0977,0.3699,0.7670,"cold shock domain containing C2, RNA binding [Source:MGI Symbol;Acc:MGI:2146027]",Csdc2,15,"22q13, hsp"
+ENSMUSG00000022450,-0.1052,0.3798,0.7722,NADH:ubiquinone oxidoreductase subunit A6 [Source:MGI Symbol;Acc:MGI:1914380],Ndufa6,15,22q13
+ENSMUSG00000024963,0.1463,0.3860,0.7739,DnaJ heat shock protein family (Hsp40) member C4 [Source:MGI Symbol;Acc:MGI:1927346],Dnajc4,19,Hsp
+ENSMUSG00000023272,0.1739,0.3970,0.7807,cysteine-rich with EGF-like domains 2 [Source:MGI Symbol;Acc:MGI:1923987],Creld2,15,22q13
+ENSMUSG00000025037,-0.1094,0.4004,0.7830,monoamine oxidase A [Source:MGI Symbol;Acc:MGI:96915],Maoa,X,ASD+Sleep
+ENSMUSG00000034235,-0.1414,0.4049,0.7860,ubiquitin specific peptidase 54 [Source:MGI Symbol;Acc:MGI:1926037],Usp54,14,ASD GWAS
+ENSMUSG00000006369,-0.1632,0.4049,0.7860,fibulin 1 [Source:MGI Symbol;Acc:MGI:95487],Fbln1,15,22q13
+ENSMUSG00000063765,0.1211,0.4067,0.7868,chondroadherin-like [Source:MGI Symbol;Acc:MGI:3036284],Chadl,15,22q13
+ENSMUSG00000037447,-0.1336,0.4103,0.7894,AT rich interactive domain 5A (MRF1-like) [Source:MGI Symbol;Acc:MGI:2443039],Arid5a,1,ASD GWAS
+ENSMUSG00000031189,0.1541,0.4153,0.7925,"AF4/FMR2 family, member 2 [Source:MGI Symbol;Acc:MGI:1202294]",Aff2,X,ASD GWAS
+ENSMUSG00000033170,-0.1831,0.4316,0.8006,"caspase recruitment domain family, member 10 [Source:MGI Symbol;Acc:MGI:2146012]",Card10,15,22q13
+ENSMUSG00000022437,0.0708,0.4394,0.8057,SAMM50 sorting and assembly machinery component [Source:MGI Symbol;Acc:MGI:1915903],Samm50,15,22q13
+ENSMUSG00000030340,-0.1858,0.4469,0.8090,"sodium channel, nonvoltage-gated 1 alpha [Source:MGI Symbol;Acc:MGI:101782]",Scnn1a,6,Sodium
+ENSMUSG00000092607,0.1075,0.4480,0.8094,sodium channel modifier 1 [Source:MGI Symbol;Acc:MGI:1341284],Scnm1,3,Sodium
+ENSMUSG00000016346,-0.0602,0.4555,0.8134,"potassium voltage-gated channel, subfamily Q, member 2 [Source:MGI Symbol;Acc:MGI:1309503]",Kcnq2,2,ASD GWAS
+ENSMUSG00000022438,0.1061,0.4806,0.8282,"parvin, beta [Source:MGI Symbol;Acc:MGI:2153063]",Parvb,15,22q13
+ENSMUSG00000035045,-0.0858,0.4857,0.8293,zinc finger CCCH-type containing 12B [Source:MGI Symbol;Acc:MGI:2442133],Zc3h12b,X,ASD GWAS
+ENSMUSG00000022610,0.2157,0.4879,0.8293,mitogen-activated protein kinase 12 [Source:MGI Symbol;Acc:MGI:1353438],Mapk12,15,ASD
+ENSMUSG00000054277,-0.1024,0.4879,0.8293,ADP-ribosylation factor GTPase activating protein 3 [Source:MGI Symbol;Acc:MGI:1913501],Arfgap3,15,22q13
+ENSMUSG00000034810,-0.2116,0.4929,0.8335,"sodium channel, voltage-gated, type VII, alpha [Source:MGI Symbol;Acc:MGI:102965]",Scn7a,2,Sodium
+ENSMUSG00000053411,0.0831,0.4959,0.8363,chromobox 7 [Source:MGI Symbol;Acc:MGI:1196439],Cbx7,15,22q13
+ENSMUSG00000034278,0.1395,0.5018,0.8402,DnaJ heat shock protein family (Hsp40) member C17 [Source:MGI Symbol;Acc:MGI:1916658],Dnajc17,2,Hsp
+ENSMUSG00000048755,0.1143,0.5034,0.8413,malonyl CoA:ACP acyltransferase (mitochondrial) [Source:MGI Symbol;Acc:MGI:2388651],Mcat,15,22q13
+ENSMUSG00000016541,-0.0672,0.5062,0.8430,ataxin 10 [Source:MGI Symbol;Acc:MGI:1859293],Atxn10,15,22q13
+ENSMUSG00000042632,0.0816,0.5112,0.8445,"phospholipase A2, group VI [Source:MGI Symbol;Acc:MGI:1859152]",Pla2g6,15,Hypotonia
+ENSMUSG00000042622,-0.3351,0.5121,0.8446,"v-maf musculoaponeurotic fibrosarcoma oncogene family, protein F (avian) [Source:MGI Symbol;Acc:MGI:96910]",Maff,15,22q13
+ENSMUSG00000004460,-0.0733,0.5133,0.8456,DnaJ heat shock protein family (Hsp40) member B11 [Source:MGI Symbol;Acc:MGI:1915088],Dnajb11,16,Hsp
+ENSMUSG00000022394,-0.0736,0.5158,0.8468,L3MBTL2 polycomb repressive complex 1 subunit [Source:MGI Symbol;Acc:MGI:2443584],L3mbtl2,15,22q13
+ENSMUSG00000042292,0.0873,0.5256,0.8507,MKL (megakaryoblastic leukemia)/myocardin-like 1 [Source:MGI Symbol;Acc:MGI:2384495],Mkl1,15,22q13
+ENSMUSG00000031133,-0.1139,0.5260,0.8510,Rac/Cdc42 guanine nucleotide exchange factor (GEF) 6 [Source:MGI Symbol;Acc:MGI:1920591],Arhgef6,X,ASD GWAS
+ENSMUSG00000022433,-0.0557,0.5292,0.8524,"casein kinase 1, epsilon [Source:MGI Symbol;Acc:MGI:1351660]",Csnk1e,15,22q13
+ENSMUSG00000036529,-0.0570,0.5308,0.8533,SET binding factor 1 [Source:MGI Symbol;Acc:MGI:1925230],Sbf1,15,ASD
+ENSMUSG00000068220,0.1409,0.5333,0.8536,"lectin, galactose binding, soluble 1 [Source:MGI Symbol;Acc:MGI:96777]",Lgals1,15,22q13
+ENSMUSG00000031839,0.0763,0.5486,0.8625,heat shock factor binding protein 1 [Source:MGI Symbol;Acc:MGI:1915446],Hsbp1,8,Hsp
+ENSMUSG00000054405,-0.0597,0.5495,0.8629,DnaJ heat shock protein family (Hsp40) member C8 [Source:MGI Symbol;Acc:MGI:1915848],Dnajc8,4,Hsp
+ENSMUSG00000041736,-0.2071,0.5507,0.8633,translocator protein [Source:MGI Symbol;Acc:MGI:88222],Tspo,15,22q13
+ENSMUSG00000016619,-0.0680,0.5566,0.8664,nucleoporin 50 [Source:MGI Symbol;Acc:MGI:1351502],Nup50,15,22q13
+ENSMUSG00000026864,-0.0785,0.5772,0.8762,heat shock protein 5 [Source:MGI Symbol;Acc:MGI:95835],Hspa5,2,Hsp
+ENSMUSG00000064284,-0.1146,0.5803,0.8774,"cysteine rich, DPF motif domain containing 1 [Source:MGI Symbol;Acc:MGI:1919605]",Cdpf1,15,22q13
+ENSMUSG00000022426,-0.0837,0.5831,0.8785,Josephin domain containing 1 [Source:MGI Symbol;Acc:MGI:1921408],Josd1,15,22q13
+ENSMUSG00000047888,-0.0565,0.5898,0.8816,trinucleotide repeat containing 6b [Source:MGI Symbol;Acc:MGI:2443730],Tnrc6b,15,22q13
+ENSMUSG00000042524,-0.0821,0.5952,0.8822,Sad1 and UNC84 domain containing 2 [Source:MGI Symbol;Acc:MGI:2443011],Sun2,15,22q13
+ENSMUSG00000027679,-0.0876,0.6060,0.8856,DnaJ heat shock protein family (Hsp40) member C19 [Source:MGI Symbol;Acc:MGI:1914963],Dnajc19,3,Hsp
+ENSMUSG00000016757,-0.0722,0.6156,0.8902,"tubulin tyrosine ligase-like family, member 12 [Source:MGI Symbol;Acc:MGI:3039573]",Ttll12,15,22q13
+ENSMUSG00000039768,-0.0498,0.6194,0.8917,DnaJ heat shock protein family (Hsp40) member C11 [Source:MGI Symbol;Acc:MGI:2443386],Dnajc11,4,Hsp
+ENSMUSG00000036561,0.0459,0.6256,0.8929,"protein phosphatase 6, regulatory subunit 2 [Source:MGI Symbol;Acc:MGI:1918724]",Ppp6r2,15,22q13
+ENSMUSG00000033020,0.0731,0.6313,0.8935,polymerase (RNA) II (DNA directed) polypeptide F [Source:MGI Symbol;Acc:MGI:1349393],Polr2f,15,22q13
+ENSMUSG00000029131,-0.0545,0.6381,0.8955,DnaJ heat shock protein family (Hsp40) member B6 [Source:MGI Symbol;Acc:MGI:1344381],Dnajb6,5,Hsp
+ENSMUSG00000024109,0.0602,0.6385,0.8955,neurexin I [Source:MGI Symbol;Acc:MGI:1096391],Nrxn1,17,ASD GWAS
+ENSMUSG00000035845,0.0821,0.6553,0.9030,"asparagine-linked glycosylation 12 (alpha-1,6-mannosyltransferase) [Source:MGI Symbol;Acc:MGI:2385025]",Alg12,15,Hypotonia
+ENSMUSG00000015363,0.0766,0.6571,0.9035,TraB domain containing [Source:MGI Symbol;Acc:MGI:1915226],Trabd,15,22q13
+ENSMUSG00000035944,0.0816,0.6574,0.9035,tetratricopeptide repeat domain 38 [Source:MGI Symbol;Acc:MGI:2146198],Ttc38,15,22q13
+ENSMUSG00000009035,-0.0414,0.6583,0.9037,transmembrane protein 184b [Source:MGI Symbol;Acc:MGI:2445179],Tmem184b,15,22q13
+ENSMUSG00000048546,-0.0584,0.6670,0.9054,"transducer of ERBB2, 2 [Source:MGI Symbol;Acc:MGI:1888525]",Tob2,15,22q13
+ENSMUSG00000023033,-0.0441,0.6678,0.9056,"sodium channel, voltage-gated, type VIII, alpha [Source:MGI Symbol;Acc:MGI:103169]",Scn8a,15,Sodium
+ENSMUSG00000068101,0.1604,0.6825,0.9110,centromere protein M [Source:MGI Symbol;Acc:MGI:1913820],Cenpm,15,22q13
+ENSMUSG00000057182,0.0530,0.6916,0.9143,"sodium channel, voltage-gated, type III, alpha [Source:MGI Symbol;Acc:MGI:98249]",Scn3a,2,Sodium
+ENSMUSG00000025354,-0.0441,0.6945,0.9155,DnaJ heat shock protein family (Hsp40) member C14 [Source:MGI Symbol;Acc:MGI:1921580],Dnajc14,10,Hsp
+ENSMUSG00000022400,-0.0478,0.6982,0.9163,ring-box 1 [Source:MGI Symbol;Acc:MGI:1891829],Rbx1,15,22q13
+ENSMUSG00000047878,-0.1126,0.7143,0.9213,"alpha 1,4-galactosyltransferase [Source:MGI Symbol;Acc:MGI:3512453]",A4galt,15,22q13
+ENSMUSG00000033047,-0.0380,0.7144,0.9213,"eukaryotic translation initiation factor 3, subunit L [Source:MGI Symbol;Acc:MGI:2386251]",Eif3l,15,22q13
+ENSMUSG00000041708,0.0630,0.7145,0.9213,metallophosphoesterase domain containing 1 [Source:MGI Symbol;Acc:MGI:106316],Mpped1,15,22q13
+ENSMUSG00000019878,0.0500,0.7209,0.9234,heat shock factor 2 [Source:MGI Symbol;Acc:MGI:96239],Hsf2,10,Hsp
+ENSMUSG00000053647,-0.1062,0.7246,0.9252,G protein-coupled estrogen receptor 1 [Source:MGI Symbol;Acc:MGI:1924104],Gper1,5,Hormone
+ENSMUSG00000054863,-0.0536,0.7255,0.9253,"family with sequence similarity 19, member A5 [Source:MGI Symbol;Acc:MGI:2146182]",Fam19a5,15,22q13
+ENSMUSG00000051518,0.0573,0.7337,0.9289,ribosomal protein S19 binding protein 1 [Source:MGI Symbol;Acc:MGI:1913788],Rps19bp1,15,22q13
+ENSMUSG00000009585,0.0940,0.7361,0.9295,"apolipoprotein B mRNA editing enzyme, catalytic polypeptide 3 [Source:MGI Symbol;Acc:MGI:1933111]",Apobec3,15,22q13
+ENSMUSG00000027166,-0.0746,0.7370,0.9298,DnaJ heat shock protein family (Hsp40) member C24 [Source:MGI Symbol;Acc:MGI:1919522],Dnajc24,2,Hsp
+ENSMUSG00000055024,0.0282,0.7451,0.9329,E1A binding protein p300 [Source:MGI Symbol;Acc:MGI:1276116],Ep300,15,22q13
+ENSMUSG00000022463,-0.0325,0.7454,0.9329,sterol regulatory element binding factor 2 [Source:MGI Symbol;Acc:MGI:107585],Srebf2,15,22q13
+ENSMUSG00000028035,-0.0416,0.7483,0.9339,DnaJ heat shock protein family (Hsp40) member B4 [Source:MGI Symbol;Acc:MGI:1914285],Dnajb4,3,Hsp
+ENSMUSG00000031393,-0.0326,0.7488,0.9339,methyl CpG binding protein 2 [Source:MGI Symbol;Acc:MGI:99918],Mecp2,X,"Rett, ASD+sleep"
+ENSMUSG00000018042,0.0361,0.7674,0.9414,cytochrome b5 reductase 3 [Source:MGI Symbol;Acc:MGI:94893],Cyb5r3,15,22q13
+ENSMUSG00000018169,0.0860,0.7700,0.9419,MFNG O-fucosylpeptide 3-beta-N-acetylglucosaminyltransferase [Source:MGI Symbol;Acc:MGI:1095404],Mfng,15,22q13
+ENSMUSG00000048482,0.0780,0.7712,0.9424,brain derived neurotrophic factor [Source:MGI Symbol;Acc:MGI:88145],Bdnf,2,ASD+sleep
+ENSMUSG00000063172,0.0691,0.7722,0.9427,"heat shock protein family B (small), member 11 [Source:MGI Symbol;Acc:MGI:1920188]",Hspb11,4,Hsp
+ENSMUSG00000047394,0.0964,0.7803,0.9445,outer dense fiber of sperm tails 3B [Source:MGI Symbol;Acc:MGI:1917363],Odf3b,15,22q13
+ENSMUSG00000041235,0.0477,0.8110,0.9522,chromodomain helicase DNA binding protein 7 [Source:MGI Symbol;Acc:MGI:2444748],Chd7,4,ASD GWAS
+ENSMUSG00000042406,-0.0253,0.8239,0.9571,activating transcription factor 4 [Source:MGI Symbol;Acc:MGI:88096],Atf4,15,22q13
+ENSMUSG00000032511,-0.1481,0.8273,0.9576,"sodium channel, voltage-gated, type V, alpha [Source:MGI Symbol;Acc:MGI:98251]",Scn5a,9,Sodium
+ENSMUSG00000022623,-0.0222,0.8277,0.9578,SH3 and multiple ankyrin repeat domains 3 [Source:MGI Symbol;Acc:MGI:1930016],Shank3,15,Shank3
+ENSMUSG00000022428,-0.0280,0.8312,0.9595,"chibby family member 1, beta catenin antagonist [Source:MGI Symbol;Acc:MGI:1920989]",Cby1,15,22q13
+ENSMUSG00000033249,0.0337,0.8358,0.9605,heat shock transcription factor 4 [Source:MGI Symbol;Acc:MGI:1347058],Hsf4,8,Hsp
+ENSMUSG00000034333,0.0685,0.8374,0.9608,"zinc finger, BED type containing 4 [Source:MGI Symbol;Acc:MGI:2682302]",Zbed4,15,22q13
+ENSMUSG00000049281,0.0314,0.8379,0.9612,"sodium channel, voltage-gated, type III, beta [Source:MGI Symbol;Acc:MGI:1918882]",Scn3b,9,Sodium
+ENSMUSG00000022476,0.0252,0.8444,0.9628,polymerase (RNA) III (DNA directed) polypeptide H [Source:MGI Symbol;Acc:MGI:1926179],Polr3h,15,22q13
+ENSMUSG00000109865,-0.0293,0.8475,0.9638,heat shock protein 14 [Source:MGI Symbol;Acc:MGI:1354164],Hspa14,2,Hsp
+ENSMUSG00000022439,0.0476,0.8503,0.9651,"parvin, gamma [Source:MGI Symbol;Acc:MGI:2158329]",Parvg,15,22q13
+ENSMUSG00000022383,0.0533,0.8564,0.9669,peroxisome proliferator activated receptor alpha [Source:MGI Symbol;Acc:MGI:104740],Ppara,15,22q13
+ENSMUSG00000016763,0.0357,0.8694,0.9703,"signal peptide, CUB domain, EGF-like 1 [Source:MGI Symbol;Acc:MGI:1890616]",Scube1,15,22q13
+ENSMUSG00000022414,-0.0226,0.8696,0.9703,TGF-beta activated kinase 1/MAP3K7 binding protein 1 [Source:MGI Symbol;Acc:MGI:1913763],Tab1,15,22q13
+ENSMUSG00000022427,-0.0232,0.8726,0.9718,translocase of outer mitochondrial membrane 22 [Source:MGI Symbol;Acc:MGI:2450248],Tomm22,15,22q13
+ENSMUSG00000036854,0.0328,0.8847,0.9755,"heat shock protein, alpha-crystallin-related, B6 [Source:MGI Symbol;Acc:MGI:2685325]",Hspb6,7,Hsp
+ENSMUSG00000042303,0.0158,0.8891,0.9770,small G protein signaling modulator 3 [Source:MGI Symbol;Acc:MGI:1916329],Sgsm3,15,22q13
+ENSMUSG00000051864,-0.0186,0.8994,0.9798,"TBC1 domain family, member 22a [Source:MGI Symbol;Acc:MGI:1289265]",Tbc1d22a,15,22q13
+ENSMUSG00000039763,0.0195,0.9070,0.9825,DnaJ heat shock protein family (Hsp40) member C28 [Source:MGI Symbol;Acc:MGI:2181053],Dnajc28,16,Hsp
+ENSMUSG00000033099,-0.0175,0.9081,0.9827,nucleolar protein 12 [Source:MGI Symbol;Acc:MGI:2146285],Nol12,15,22q13
+ENSMUSG00000032560,0.0126,0.9110,0.9831,DnaJ heat shock protein family (Hsp40) member C13 [Source:MGI Symbol;Acc:MGI:2676368],Dnajc13,9,Hsp
+ENSMUSG00000035805,-0.0139,0.9118,0.9832,megalencephalic leukoencephalopathy with subcortical cysts 1 homolog (human) [Source:MGI Symbol;Acc:MGI:2157910],Mlc1,15,22q13
+ENSMUSG00000033088,0.0161,0.9184,0.9843,TRIO and F-actin binding protein [Source:MGI Symbol;Acc:MGI:1349410],Triobp,15,22q13
+ENSMUSG00000061360,-0.0162,0.9239,0.9860,PHD finger protein 5A [Source:MGI Symbol;Acc:MGI:2156864],Phf5a,15,22q13
+ENSMUSG00000022434,-0.0152,0.9243,0.9862,"family with sequence similarity 118, member A [Source:MGI Symbol;Acc:MGI:1920475]",Fam118a,15,22q13
+ENSMUSG00000027006,-0.0099,0.9262,0.9866,DnaJ heat shock protein family (Hsp40) member C10 [Source:MGI Symbol;Acc:MGI:1914111],Dnajc10,2,Hsp
+ENSMUSG00000022474,0.0098,0.9287,0.9870,phosphomannomutase 1 [Source:MGI Symbol;Acc:MGI:1353418],Pmm1,15,22q13
+ENSMUSG00000041815,-0.0092,0.9347,0.9878,"polymerase (DNA-directed), delta interacting protein 3 [Source:MGI Symbol;Acc:MGI:1921076]",Poldip3,15,22q13
+ENSMUSG00000042535,-0.0099,0.9348,0.9878,GTP binding protein 1 [Source:MGI Symbol;Acc:MGI:109443],Gtpbp1,15,22q13
+ENSMUSG00000008690,0.0084,0.9361,0.9878,"non-SMC condensin II complex, subunit H2 [Source:MGI Symbol;Acc:MGI:1289164]",Ncaph2,15,22q13
+ENSMUSG00000018040,-0.0063,0.9529,0.9893,ribosomal RNA processing 7 homolog A (S. cerevisiae) [Source:MGI Symbol;Acc:MGI:1922028],Rrp7a,15,22q13
+ENSMUSG00000022387,0.0047,0.9665,0.9934,bromodomain containing 1 [Source:MGI Symbol;Acc:MGI:1924161],Brd1,15,ASD
+ENSMUSG00000022401,-0.0052,0.9690,0.9944,"X-prolyl aminopeptidase 3, mitochondrial [Source:MGI Symbol;Acc:MGI:2445217]",Xpnpep3,15,22q13
+ENSMUSG00000058099,0.0111,0.9704,0.9946,Nfat activating molecule with ITAM motif 1 [Source:MGI Symbol;Acc:MGI:1921289],Nfam1,15,22q13
+ENSMUSG00000096883,0.0057,0.9876,0.9980,shisa family member 8 [Source:MGI Symbol;Acc:MGI:2146080],Shisa8,15,22q13
+ENSMUSG00000014195,0.0011,0.9891,0.9985,DnaJ heat shock protein family (Hsp40) member C7 [Source:MGI Symbol;Acc:MGI:1928373],Dnajc7,11,Hsp
+ENSMUSG00000041852,-0.0013,0.9894,0.9987,transcription factor 20 [Source:MGI Symbol;Acc:MGI:108399],Tcf20,15,ASD
+ENSMUSG00000022620,0.0011,0.9939,0.9992,arylsulfatase A [Source:MGI Symbol;Acc:MGI:88077],Arsa,15,Hypotonia
+ENSMUSG00000036052,0.0006,0.9966,0.9995,DnaJ heat shock protein family (Hsp40) member B5 [Source:MGI Symbol;Acc:MGI:1930018],Dnajb5,4,Hsp
+ENSMUSG00000000838,-0.246209145,0.023118002,0.238936876,fragile X mental retardation 1 [Source:MGI Symbol;Acc:MGI:95564],Fmr1,X,Fragile X
+ENSMUSG00000013663,-0.162193263,0.092842568,0.446966942,phosphatase and tensin homolog [Source:MGI Symbol;Acc:MGI:109583],Pten,19,"ASD, macrocephely"
+ENSMUSG00000056972,-0.176930299,0.662974079,0.904629296,"melanoma antigen, family L, 2 [Source:MGI Symbol;Acc:MGI:1351648]",Magel2,7,Prader-Willi
+ENSMUSG00000102252,0.124333612,0.665815751,0.904957339,small nuclear ribonucleoprotein N [Source:MGI Symbol;Acc:MGI:98347],Snrpn,7,Prader-Willi
+ENSMUSG00000067629,0.255819751,0.101924882,0.467045622,synaptic Ras GTPase activating protein 1 homolog (rat) [Source:MGI Symbol;Acc:MGI:3039785],Syngap1,17,ASD
+ENSMUSG00000053754,-0.005300358,0.953761566,0.989349938,chromodomain helicase DNA binding protein 8 [Source:MGI Symbol;Acc:MGI:1915022],Chd8,14,ASD
+ENSMUSG00000053950,-0.0864143,0.498449913,0.83771665,ADNP homeobox 2 [Source:MGI Symbol;Acc:MGI:2448562],Adnp2,18,ASD
+ENSMUSG00000030067,-0.395130677,0.094689927,0.451290947,forkhead box P1 [Source:MGI Symbol;Acc:MGI:1914004],Foxp1,6,ASD
+ENSMUSG00000038902,0.11717483,0.23900665,0.659348479,pogo transposable element with ZNF domain [Source:MGI Symbol;Acc:MGI:2442117],Pogz,3,ASD
+ENSMUSG00000030310,-0.242475469,0.014574895,0.191004072,"solute carrier family 6 (neurotransmitter transporter, GABA), member 1 [Source:MGI Symbol;Acc:MGI:95627]",Slc6a1,6,ASD
+ENSMUSG00000069729,-0.06102029,0.498948316,0.838145636,AT rich interactive domain 1B (SWI-like) [Source:MGI Symbol;Acc:MGI:1926129],Arid1b,17,ASD
+ENSMUSG00000045098,0.05208325,0.603604661,0.884055775,lysine methyltransferase 5B [Source:MGI Symbol;Acc:MGI:2444557],Kmt5b,19,ASD
+ENSMUSG00000030209,0.111813359,0.481814948,0.828853961,"glutamate receptor, ionotropic, NMDA2B (epsilon 2) [Source:MGI Symbol;Acc:MGI:95821]",Grin2b,6,ASD
+ENSMUSG00000022897,-0.061229698,0.552238993,0.864275962,dual-specificity tyrosine-(Y)-phosphorylation regulated kinase 1a [Source:MGI Symbol;Acc:MGI:1330299],Dyrk1a,16,ASD
+ENSMUSG00000018076,0.145329933,0.164874999,0.572763036,mediator complex subunit 13-like [Source:MGI Symbol;Acc:MGI:2670178],Med13l,5,ASD
+ENSMUSG00000029714,0.319320274,0.022484409,0.234693886,GRB10 interacting GYF protein 1 [Source:MGI Symbol;Acc:MGI:1888677],Gigyf1,5,ASD
+ENSMUSG00000078671,-0.002814244,0.977944444,0.994940923,chromodomain helicase DNA binding protein 2 [Source:MGI Symbol;Acc:MGI:2448567],Chd2,7,ASD
+ENSMUSG00000035569,0.138019729,0.101870735,0.467045622,ankyrin repeat domain 11 [Source:MGI Symbol;Acc:MGI:1924337],Ankrd11,8,ASD
+ENSMUSG00000032826,0.000571076,0.996096502,0.999194282,"ankyrin 2, brain [Source:MGI Symbol;Acc:MGI:88025]",Ank2,3,ASD
+ENSMUSG00000028053,-0.038619675,0.67295089,0.907474824,ASH1 like histone lysine methyltransferase [Source:MGI Symbol;Acc:MGI:2183158],Ash1l,3,ASD
+ENSMUSG00000020694,-0.146933982,0.172775245,0.584165052,tousled-like kinase 2 (Arabidopsis) [Source:MGI Symbol;Acc:MGI:1346023],Tlk2,11,ASD
+ENSMUSG00000058886,0.272890587,0.005803593,0.118197843,"DEAF1, transcription factor [Source:MGI Symbol;Acc:MGI:1858496]",Deaf1,7,ASD
+ENSMUSG00000006932,-0.015274419,0.896501168,0.978535755,"catenin (cadherin associated protein), beta 1 [Source:MGI Symbol;Acc:MGI:88276]",Ctnnb1,9,ASD
+ENSMUSG00000018476,0.094049861,0.464953795,0.817780032,KDM1 lysine (K)-specific demethylase 6B [Source:MGI Symbol;Acc:MGI:2448492],Kdm6b,11,ASD
+ENSMUSG00000050272,-0.048433653,0.698110676,0.91632889,DS cell adhesion molecule [Source:MGI Symbol;Acc:MGI:1196281],Dscam,16,ASD
+ENSMUSG00000034269,0.054466069,0.602729385,0.883747924,SET domain containing 5 [Source:MGI Symbol;Acc:MGI:1920145],Setd5,6,ASD
+ENSMUSG00000056258,-0.267401044,0.002889737,0.0799839,"potassium voltage-gated channel, subfamily Q, member 3 [Source:MGI Symbol;Acc:MGI:1336181]",Kcnq3,15,ASD
+ENSMUSG00000032042,-0.236653967,0.026163937,0.249624799,signal recognition particle receptor ('docking protein') [Source:MGI Symbol;Acc:MGI:1914648],Srpr,9,ASD
+ENSMUSG00000024283,-0.127908841,0.185082975,0.598351221,WW domain containing adaptor with coiled-coil [Source:MGI Symbol;Acc:MGI:2387357],Wac,18,ASD
+ENSMUSG00000037541,0.265035816,0.135165987,0.52855096,SH3 and multiple ankyrin repeat domains 2 [Source:MGI Symbol;Acc:MGI:2671987],Shank2,7,ASD
+ENSMUSG00000027630,-0.071934087,0.579618689,0.877061291,transducin (beta)-like 1X-linked receptor 1 [Source:MGI Symbol;Acc:MGI:2441730],Tbl1xr1,3,ASD
+ENSMUSG00000061911,-0.037538698,0.665437688,0.904807766,myelin transcription factor 1-like [Source:MGI Symbol;Acc:MGI:1100511],Myt1l,12,ASD
+ENSMUSG00000000861,-0.095132083,0.590973611,0.881558664,B cell CLL/lymphoma 11A (zinc finger protein) [Source:MGI Symbol;Acc:MGI:106190],Bcl11a,11,ASD
+ENSMUSG00000036192,0.047197897,0.748424073,0.933901279,RAR-related orphan receptor beta [Source:MGI Symbol;Acc:MGI:1343464],Rorb,19,ASD
+ENSMUSG00000062115,0.145489544,0.10257106,0.468294628,retinoic acid induced 1 [Source:MGI Symbol;Acc:MGI:103291],Rai1,11,ASD
+ENSMUSG00000018707,0.03748622,0.73314158,0.92887117,dynein cytoplasmic 1 heavy chain 1 [Source:MGI Symbol;Acc:MGI:103147],Dync1h1,12,ASD
+ENSMUSG00000022048,-0.131010545,0.131081645,0.522205642,dihydropyrimidinase-like 2 [Source:MGI Symbol;Acc:MGI:1349763],Dpysl2,14,ASD
+ENSMUSG00000008036,0.031660736,0.81014489,0.952213218,"adaptor-related protein complex 2, sigma 1 subunit [Source:MGI Symbol;Acc:MGI:2141861]",Ap2s1,7,ASD
+ENSMUSG00000038056,0.127269582,0.147218316,0.546011429,lysine (K)-specific methyltransferase 2C [Source:MGI Symbol;Acc:MGI:2444959],Kmt2c,5,ASD
+ENSMUSG00000061013,0.007573393,0.977821057,0.994940923,mohawk homeobox [Source:MGI Symbol;Acc:MGI:2687286],Mkx,18,ASD
+ENSMUSG00000033676,-0.117654973,0.296083284,0.712269177,"gamma-aminobutyric acid (GABA) A receptor, subunit beta 3 [Source:MGI Symbol;Acc:MGI:95621]",Gabrb3,7,ASD
+ENSMUSG00000042557,-0.054859585,0.61032951,0.887962782,"transcriptional regulator, SIN3A (yeast) [Source:MGI Symbol;Acc:MGI:107157]",Sin3a,9,ASD
+ENSMUSG00000036792,0.000940464,0.99316873,0.999194282,methyl-CpG binding domain protein 5 [Source:MGI Symbol;Acc:MGI:2138934],Mbd5,2,ASD
+ENSMUSG00000027254,-0.061875819,0.595695624,0.882221307,microtubule-associated protein 1 A [Source:MGI Symbol;Acc:MGI:1306776],Map1a,2,ASD
+ENSMUSG00000026797,-0.030624256,0.779392628,0.944062686,syntaxin binding protein 1 [Source:MGI Symbol;Acc:MGI:107363],Stxbp1,2,ASD
+ENSMUSG00000024268,0.148430205,0.31939089,0.730308721,"CUGBP, Elav-like family member 4 [Source:MGI Symbol;Acc:MGI:1932407]",Celf4,18,ASD
+ENSMUSG00000037791,0.083342984,0.397339229,0.780851855,PHD finger protein 12 [Source:MGI Symbol;Acc:MGI:1924057],Phf12,11,ASD
+ENSMUSG00000035033,0.491969144,0.27485662,0.694676086,T-box brain gene 1 [Source:MGI Symbol;Acc:MGI:107404],Tbr1,2,ASD
+ENSMUSG00000059409,-0.057168101,0.55326828,0.864611021,"protein phosphatase 2, regulatory subunit B', delta [Source:MGI Symbol;Acc:MGI:2388481]",Ppp2r5d,17,ASD
+ENSMUSG00000068040,0.052708878,0.571374476,0.873501638,transmembrane 9 superfamily protein member 4 [Source:MGI Symbol;Acc:MGI:2139220],Tm9sf4,2,ASD
+ENSMUSG00000046574,0.13485446,0.231366662,0.6514269,proline rich 12 [Source:MGI Symbol;Acc:MGI:2679002],Prr12,7,ASD
+ENSMUSG00000029050,0.084912996,0.470573676,0.82202836,ski sarcoma viral oncogene homolog (avian) [Source:MGI Symbol;Acc:MGI:98310],Ski,4,ASD
+ENSMUSG00000045215,0.135786651,0.494348208,0.834893814,"additional sex combs like 3, transcriptional regulator [Source:MGI Symbol;Acc:MGI:2685175]",Asxl3,18,ASD
+ENSMUSG00000024068,-0.11556959,0.27462492,0.694393617,spastin [Source:MGI Symbol;Acc:MGI:1858896],Spast,17,ASD
+ENSMUSG00000025369,0.013086667,0.878547781,0.973884965,"SWI/SNF related, matrix associated, actin dependent regulator of chromatin, subfamily c, member 2 [Source:MGI Symbol;Acc:MGI:1915344]",Smarcc2,10,ASD
+ENSMUSG00000026219,-0.098582189,0.24005278,0.660516411,thyroid hormone receptor interactor 12 [Source:MGI Symbol;Acc:MGI:1309481],Trip12,1,ASD
+ENSMUSG00000022521,0.08565282,0.449727308,0.810284576,CREB binding protein [Source:MGI Symbol;Acc:MGI:1098280],Crebbp,16,ASD
+ENSMUSG00000053477,0.145522671,0.275719659,0.694891623,transcription factor 4 [Source:MGI Symbol;Acc:MGI:98506],Tcf4,18,ASD
+ENSMUSG00000004110,0.222466486,0.070704117,0.396771822,"calcium channel, voltage-dependent, R type, alpha 1E subunit [Source:MGI Symbol;Acc:MGI:106217]",Cacna1e,1,ASD
+ENSMUSG00000057614,-0.317941939,0.001500393,0.057980002,"guanine nucleotide binding protein (G protein), alpha inhibiting 1 [Source:MGI Symbol;Acc:MGI:95771]",Gnai1,5,ASD
+ENSMUSG00000021488,0.028544679,0.747516522,0.933638789,nuclear receptor-binding SET-domain protein 1 [Source:MGI Symbol;Acc:MGI:1276545],Nsd1,13,ASD
+ENSMUSG00000024985,0.165809907,0.618591689,0.891331185,"transcription factor 7 like 2, T cell specific, HMG box [Source:MGI Symbol;Acc:MGI:1202879]",Tcf7l2,19,ASD
+ENSMUSG00000025223,0.129412158,0.20888226,0.62469342,LIM domain binding 1 [Source:MGI Symbol;Acc:MGI:894762],Ldb1,19,ASD
+ENSMUSG00000070319,-0.043666015,0.718961808,0.922961584,"eukaryotic translation initiation factor 3, subunit G [Source:MGI Symbol;Acc:MGI:1858258]",Eif3g,9,ASD
+ENSMUSG00000038025,0.087724239,0.352330852,0.753903331,PHD finger protein 2 [Source:MGI Symbol;Acc:MGI:1338034],Phf2,13,ASD
+ENSMUSG00000018377,-0.112427816,0.355295267,0.755691082,vascular endothelial zinc finger 1 [Source:MGI Symbol;Acc:MGI:1313291],Vezf1,11,ASD
+ENSMUSG00000020932,0.127504077,0.527173953,0.851132567,glial fibrillary acidic protein [Source:MGI Symbol;Acc:MGI:95697],Gfap,11,ASD
+ENSMUSG00000034168,-0.022735571,0.849316195,0.964689982,interferon regulatory factor 2 binding protein-like [Source:MGI Symbol;Acc:MGI:2442463],Irf2bpl,12,ASD
+ENSMUSG00000039671,0.059110109,0.590270375,0.881558664,"zinc finger, MYND-type containing 8 [Source:MGI Symbol;Acc:MGI:1918025]",Zmynd8,2,ASD
+ENSMUSG00000023927,0.067161119,0.644788856,0.897866961,special AT-rich sequence binding protein 1 [Source:MGI Symbol;Acc:MGI:105084],Satb1,17,ASD
+ENSMUSG00000040929,0.28508296,0.116039913,0.49411931,"regulatory factor X, 3 (influences HLA class II expression) [Source:MGI Symbol;Acc:MGI:106582]",Rfx3,19,ASD
+ENSMUSG00000003099,-0.144345385,0.175155902,0.586210618,"protein phosphatase 5, catalytic subunit [Source:MGI Symbol;Acc:MGI:102666]",Ppp5c,7,ASD
+ENSMUSG00000021712,-0.300315498,0.004884525,0.108801023,tripartite motif-containing 23 [Source:MGI Symbol;Acc:MGI:1933161],Trim23,13,ASD
+ENSMUSG00000052752,0.305628916,0.019838298,0.218538411,TNF receptor-associated factor 7 [Source:MGI Symbol;Acc:MGI:3042141],Traf7,17,ASD
+ENSMUSG00000003410,0.111163022,0.212523244,0.628799307,ELAV like RNA binding protein 3 [Source:MGI Symbol;Acc:MGI:109157],Elavl3,9,ASD
+ENSMUSG00000033981,-0.129139536,0.267342231,0.685523266,"glutamate receptor, ionotropic, AMPA2 (alpha 2) [Source:MGI Symbol;Acc:MGI:95809]",Gria2,3,ASD
+ENSMUSG00000050587,-0.008967439,0.940140588,0.988177681,leucine rich repeat containing 4C [Source:MGI Symbol;Acc:MGI:2442636],Lrrc4c,2,ASD
+ENSMUSG00000021991,-0.209714187,0.300033166,0.715843102,"calcium channel, voltage-dependent, alpha2/delta subunit 3 [Source:MGI Symbol;Acc:MGI:1338890]",Cacna2d3,14,ASD
+ENSMUSG00000022142,0.034263882,0.780472302,0.944457793,nucleoporin 155 [Source:MGI Symbol;Acc:MGI:2181182],Nup155,15,ASD
+ENSMUSG00000029004,0.127881332,0.201232268,0.616609796,lysine (K)-specific methyltransferase 2E [Source:MGI Symbol;Acc:MGI:1924825],Kmt2e,5,ASD
+ENSMUSG00000031618,-0.05578871,0.642790593,0.896862649,"nuclear receptor subfamily 3, group C, member 2 [Source:MGI Symbol;Acc:MGI:99459]",Nr3c2,8,ASD
+ENSMUSG00000001910,-0.051774951,0.614930496,0.890169598,"nucleus accumbens associated 1, BEN and BTB (POZ) domain containing [Source:MGI Symbol;Acc:MGI:1914080]",Nacc1,8,ASD
+ENSMUSG00000023972,0.127390287,0.446086889,0.808657116,PTK7 protein tyrosine kinase 7 [Source:MGI Symbol;Acc:MGI:1918711],Ptk7,17,ASD
+ENSMUSG00000038976,-0.007611971,0.959278274,0.990594397,"protein phosphatase 1, regulatory subunit 9B [Source:MGI Symbol;Acc:MGI:2387581]",Ppp1r9b,11,ASD
+ENSMUSG00000007653,-0.429266817,9.90E-05,0.012523395,"gamma-aminobutyric acid (GABA) A receptor, subunit beta 2 [Source:MGI Symbol;Acc:MGI:95620]",Gabrb2,11,ASD
+ENSMUSG00000034088,-0.139960672,0.126607958,0.51335912,high density lipoprotein (HDL) binding protein [Source:MGI Symbol;Acc:MGI:99256],Hdlbp,1,ASD
+ENSMUSG00000017291,-0.211349479,0.013805384,0.185164036,TAO kinase 1 [Source:MGI Symbol;Acc:MGI:1914490],Taok1,11,ASD
+ENSMUSG00000027272,-0.054213886,0.597549639,0.88237542,ubiquitin protein ligase E3 component n-recognin 1 [Source:MGI Symbol;Acc:MGI:1277977],Ubr1,2,ASD
+ENSMUSG00000006386,-0.374264215,0.097352424,0.457496665,TEK receptor tyrosine kinase [Source:MGI Symbol;Acc:MGI:98664],Tek,4,ASD
+ENSMUSG00000063142,0.050501202,0.746907159,0.933244758,"potassium large conductance calcium-activated channel, subfamily M, alpha member 1 [Source:MGI Symbol;Acc:MGI:99923]",Kcnma1,14,ASD
+ENSMUSG00000030707,0.095136916,0.597888042,0.882457146,"coronin, actin binding protein 1A [Source:MGI Symbol;Acc:MGI:1345961]",Coro1a,7,ASD
+ENSMUSG00000042744,0.142814235,0.227756352,0.647065164,HECT domain E3 ubiquitin protein ligase 4 [Source:MGI Symbol;Acc:MGI:3647820],Hectd4,5,ASD
+ENSMUSG00000020647,-0.012733627,0.898577234,0.97952802,nuclear receptor coactivator 1 [Source:MGI Symbol;Acc:MGI:1276523],Ncoa1,12,ASD
+ENSMUSG00000020231,-0.180703669,0.217517822,0.635860088,disco interacting protein 2 homolog A [Source:MGI Symbol;Acc:MGI:2385920],Dip2a,10,ASD
+ENSMUSG00000005871,0.110119944,0.538888385,0.856125082,adenomatosis polyposis coli [Source:MGI Symbol;Acc:MGI:88039],Apc,18,Prolapse
+ENSMUSG00000035311,-0.125525454,0.207252982,0.622843095,"N-acetylglucosamine-1-phosphate transferase, alpha and beta subunits [Source:MGI Symbol;Acc:MGI:3643902]",Gnptab,10,Prolapse
