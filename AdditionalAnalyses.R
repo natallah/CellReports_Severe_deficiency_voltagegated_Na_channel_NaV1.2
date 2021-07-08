@@ -41,22 +41,15 @@ idmap_all = merge(x = data.frame(ol), y = annotations_all, by.x="row.names",by.y
 
 #pca plot and clustering for all samples together
 #load full dataset in
-setwd("/depot/pccr/data/Yangyang/hr02688_SCN2A-RNASeq/RNASeq_pipeline_2/output/counts/Ranalysis_rep2/")
-load("yang_July2019RNAseq.RData")
 
-setwd("/depot/pccr/data/Yangyang/H202SC19122900_RNASeq/Analysis/2_RNASeq_pipeline/output/DE_pipeline/")
 
-newres <- read.table('newMat.txt',sep="\t",header=TRUE)
-mat <- cbind(rawdata[,c(1:9,11:15)],newres[,2:9])
-samples <- data.frame(row.names=c("HETbrain1","HOMbrain1","WTbrain1","X240CC1","X240HC2","X242CC2","X242HC1","X244CC1","X244HC1","HET716","HOM717","WT718","HOM739","WT742","newWT1","newWT2","newWT3","newWT4","newHOM1","newHOM2","newHOM3","newHOM4"),
-                      genotype=as.factor(c("HET","HOM","WT",rep("HOM", 2),rep("HET",2),rep("WT",2),"HET","HOM","WT","HOM","WT",rep("WT",4),rep("WT",4))),
-                     batch=as.factor(c(rep(1,9),rep(3,3),rep(2,2),rep(4,8))),
-                      sample=c("HETbrain1","HOMbrain1","WTbrain1","X240CC1","X240HC2","X242CC2","X242HC1","X244CC1","X244HC1","HET716","HOM717","WT718","HOM739","WT742","newWT1","newWT2","newWT3","newWT4","newHOM1","newHOM2","newHOM3","newHOM4"),
-                      sex=as.factor(c(rep("male",9),rep("female",3),rep("male",10))),
-                      tissueType=as.factor(c(rep("wholeBrain",3), "cortex","hipp","cortex","hipp","cortex","hipp",rep("wholeBrain",13))))
+mat <- read.table('countMatrix.txt',sep="\t",header=TRUE)
+
+samples <- data.frame(row.names=c("WT1","WT2","WT3","WT4","HOM1","HOM2","HOM3","HOM4"),
+                      genotype=as.factor(c(rep("WT", 4),rep("HOM",4)))))
 data<-newCountDataSet(mat,samples)
 countData<-counts(data)
-colData<-pData(data)[,c("genotype","sex","sample","batch")]
+colData<-pData(data)[,c("genotype")]
 dds<-DESeqDataSetFromMatrix(countData = countData,
                                colData = colData,
                                design =~ genotype)
